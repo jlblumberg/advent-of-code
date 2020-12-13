@@ -1,5 +1,6 @@
 const assert = require("assert");
 const { one } = require("./one");
+const { inputOne } = require("./input-01");
 
 describe("Part One", () => {
   it("should return 514579 with input", () => {

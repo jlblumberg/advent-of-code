@@ -1,4 +1,4 @@
-`1865
+export const inputOne = `1865
 1179
 1328
 1390
